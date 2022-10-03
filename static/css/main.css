@@ -1,0 +1,53 @@
+.main {
+    font-family: 'Ubuntu', sans-serif;
+    background-color: rgb(4, 37, 67);
+    color: white;
+}
+
+.search-container {
+    margin: auto;
+    text-align: center;
+    padding: 3rem;
+    
+}
+
+.search-bar {
+    margin: 1rem 0rem 1rem 0rem;
+}
+
+.button {
+    background-color: rgb(11, 127, 38);
+    padding: 0.7rem;
+    border: none;
+    color: white;
+}
+
+.button:hover {
+    background-color: rgb(83, 83, 93);
+}
+
+.header-logo {
+    font-size: 3rem;
+    color: white;
+    margin: 0rem;
+}
+
+.tagline {
+    font-size: 1rem;
+}
+
+input {
+    padding: 0.5rem;
+    width: 500px;
+    text-align: center;
+    border: none;
+}
+
+.data {
+    line-height: 1.7rem;
+}
+
+.success {
+    margin-top: 2rem;
+    color: green;
+}

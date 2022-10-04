@@ -40,9 +40,8 @@ def home():
                 matches = matches[:-2]
 
             if num_elements == 1:
-                
-                matches = matches[:-1]
 
+                matches = matches[:-1]
 
             composed_response = matches.encode()
 
